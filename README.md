@@ -1,9 +1,12 @@
 
+<h1 align="center">Hi 👋, I'm Harini</h1>
+
+<h3 align="center">A passionate AI / ML Developer from India</h3>
+
+
 ![hello](https://github.com/HR-04/HR-04/blob/main/Animation%20for%20RDC.gif)
 
 
-<h1 align="center">Hi 👋, I'm Harini</h1>
-<h3 align="center">A passionate AI / ML Developer from India</h3>
 
 - 🌱 I’m currently learning **Finetuning LLM,LangChain,GenAI**
 
@@ -26,4 +29,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr-04&" alt="hr-04" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hr-04&show_icons=true&locale=en" alt="hr-04" /></p>
