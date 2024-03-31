@@ -1,5 +1,5 @@
 
-![hello](https://github.com/HR-04/Harini_Rengarajan/blob/main/Vidico%20__%20Agency.gif)
+![hello](https://github.com/HR-04/HR-04/blob/main/Animation%20for%20RDC.gif)
 
 
 <h1 align="center">Hi 👋, I'm Harini</h1>
@@ -22,6 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hr-04&show_icons=true&locale=en&layout=compact" alt="hr-04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hr-04&show_icons=true&locale=en" alt="hr-04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hr-04&" alt="hr-04" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hr-04&show_icons=true&locale=en" alt="hr-04" /></p>
