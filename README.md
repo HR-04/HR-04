@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **harinirengarajan203@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/13i3hv](https://pdf.ac/13i3hv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
