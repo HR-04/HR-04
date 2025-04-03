@@ -4,7 +4,7 @@
 <h3 align="center">A passionate AI / ML Developer from India</h3>
 
 
-![hello](https://github.com/HR-04/HR-04/blob/main/Animation%20for%20RDC.gif)
+![hello](https://github.com/HR-04/HR-04/blob/main/ai.gif)
 
 
 
