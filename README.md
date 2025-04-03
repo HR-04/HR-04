@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
+
 <p align="center">
   <img src="https://github.com/HR-04/HR-04/blob/main/ai.gif" alt="hello">
+</p>
+
+
 </p>
 
 <h1 align="center">💫 About Me</h1>
