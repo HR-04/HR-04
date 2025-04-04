@@ -14,7 +14,7 @@
 
 <p align="center">
 🔭 My experience includes contributing to <b>AI test case generators</b> and <b>Generative AI product development</b> during my R&D internship. Currently, I'm focused on building various other <b>AI Agents Projects</b> like RAG applications  and voice agents.<br/><br/>
-🌱 Actively learning and applying <b>Finetuning LLMs</b> (Opensource Model), <b>LangChain</b>, and diverse <b>GenAI</b> techniques including Retrieval-Augmented Generation (RAG)  and Prompt Engineering. Also exploring Cloud (AWS)  & Web Dev (Next.js).<br/><br/>
+🌱 Actively learning and applying <b>Finetuning LLMs</b> (Opensource Model), <b>LangChain</b>, and diverse <b>GenAI</b> techniques including Retrieval-Augmented Generation (RAG)  and Prompt Engineering. Also exploring Web Dev (Next.js).<br/><br/>
 </p>   
 
 <h3 align="center">📫 How to reach me</h3>
@@ -68,7 +68,7 @@
 </p>
 
 <h3 align="center">🚀 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-04&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Language Stats" style="margin-right: 5px; display: inline-block;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HR-04&theme=material-palenight&hide_border=false" alt="Streak Stats" style="margin-left: 5px; display: inline-block;">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-04&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Language Stats" style="margin-right: 40px; display: block;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HR-04&theme=material-palenight&hide_border=false" alt="Streak Stats" style="margin-left: 40px; display: block;">
+</div>
